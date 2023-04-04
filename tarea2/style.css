@@ -1,74 +1,71 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-body {
-  background: url('img/img1.jpg') no-repeat;
-  background-size: cover;
-}
-
-.box {
-  width: 500px;
-  background: rgba(0, 0, 0, .4);
-  padding: 20px;
-  text-align: center;
-  margin: 0 auto;
-  margin-top: 4%;
-  color: white;
-  font-family: 'Century Gothic', sans-serif;
-  border-radius: 15px;
-  /* box-shadow: 7px 13px 37px black; */
-}
-
-.box-img {
-  border-radius: 50%;
-}
-
-.box h1 {
-  font-size: 40px;
-  letter-spacing: 4px;
-  font-weight: 100;
-  margin: 30px 0 20px;
-}
-
-.box h2 {
-  font-size: 20px;
-  letter-spacing: 3px;
-  font-weight: 100;
-  margin-bottom: 30px
-}
-
-.box h3 {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
   
-  font-size: 20px;
-  letter-spacing: 3px;
-  font-weight: 100;
-  margin-bottom: 30px
+  body {
+    background: url('img/img1.jpg') no-repeat;
+    background-size: cover;
+  }
   
-}
-
-.box h4 {
+  .box {
+    width: 500px;
+    background: rgba(0, 0, 0, .4);
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+    border-radius: 15px;
+    /* box-shadow: 7px 13px 37px black; */
+  }
   
-  font-size: 20px;
-  letter-spacing: 3px;
-  font-weight: 100;
-  margin-bottom: 30px
+  .box-img {
+    border-radius: 50%;
+  }
   
-}
-
-.box h5 {
+  .box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    margin: 30px 0 20px;
+  }
   
-  font-size: 20px;
-  letter-spacing: 3px;
-  font-weight: 100;
-  margin-bottom: 30px
+  .box h2 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px
+  }
   
-}
-.box p {
-  text-align: justify;
-}
-
-
-
+  .box h3 {
+    
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px
+    
+  }
+  
+  .box h4 {
+    
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px
+    
+  }
+  
+  .box h5 {
+    
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-bottom: 30px
+    
+  }
+  .box p {
+    text-align: justify;
+  }
